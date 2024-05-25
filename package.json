@@ -1,0 +1,15 @@
+ {
+  "name": "ebook-website---copy",
+  "version": "1.0.0",
+  "description": "Bootstrap website for downloading a free E-book. This website has a light, business-like design.",
+  "main": "index.js",
+  "scripts": {
+     "scss:bulid": "scss --no-source-map scss:css",
+     "scss:watch": "scss --no-source-map --watch scss:css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
