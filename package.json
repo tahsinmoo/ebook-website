@@ -4,10 +4,10 @@
   "description": "Bootstrap website for downloading a free E-book. This website has a light, business-like design.",
   "main": "index.js",
   "scripts": {
-     "scss:bulid": "scss --no-source-map scss:css",
-     "scss:watch": "scss --no-source-map --watch scss:css"
+     "sass:build": "sass --no-source-map scss:css",
+     "sass:watch": "sass --no-source-map --watch scss:css"
   },
-  "author": "",
+  "author": "tahsin",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^5.3.3"
